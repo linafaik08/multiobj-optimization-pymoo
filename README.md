@@ -12,8 +12,6 @@ For a deeper dive, check out the blog post: [link coming soon]
 
 <div class="alert alert-block alert-info"> You can find all my technical blog posts <a href = https://linafaik.medium.com/>here</a>. </div>
 
----
-
 ## Project Description
 
 This project simulates store-level inventory data, detects shortages, and applies evolutionary optimization to dispatch quantities. It then uses decision-making tools like ASF and pseudo-weights to recommend a final strategy among Pareto-optimal options.
