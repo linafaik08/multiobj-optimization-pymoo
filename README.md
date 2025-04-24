@@ -26,8 +26,6 @@ It contains inventory, sales, and forecasting data across multiple retail stores
 In this repository, it is stored in:  
 `data/retail_store_inventory.csv`
 
----
-
 ### Code Structure
 
 ```
@@ -46,8 +44,6 @@ README.md
 requirements.txt
 ```
 
----
-
 ## How to Use This Repository?
 
 ### Requirements
@@ -65,8 +61,6 @@ plotly>=5.0.0
 pandas>=1.3.0
 numpy>=1.21.0
 ```
-
----
 
 ### Running the Project
 
