@@ -21,22 +21,21 @@ This project simulates store-level inventory data, detects shortages, and applie
 The dataset used in this project is sourced from Kaggle: [Retail Store Inventory Forecasting Dataset](https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset) by Anirudh Chauhan.
 
 It contains inventory, sales, and forecasting data across multiple retail stores.  
-In this repository, it is stored in:  
-`data/retail_store_inventory.csv`
+In this repository, it is stored in:  `data/retail_store_inventory.csv`
 
 ### Code Structure
 
 ```
 data/
-├── retail_store_inventory.csv       # Inventory data from Kaggle
+├── retail_store_inventory.csv # Inventory data from Kaggle
 
 notebooks/
-├── multiobjective_dispatch_nsga2.ipynb   # Main notebook for simulation, optimization & analysis
+├── multiobjective_dispatch_nsga2.ipynb # Main notebook for simulation, optimization & analysis
 
 src/
-├── optimization.py                  # Dispatch problem and NSGA-II logic
-├── mcdm.py                          # Multi-Criteria Decision Making tools
-├── visualization.py                # Plotting utilities
+├── optimization.py   # Dispatch problem and NSGA-II logic
+├── mcdm.py           # Multi-Criteria Decision Making tools
+├── visualization.py  # Plotting utilities
 
 README.md
 requirements.txt
