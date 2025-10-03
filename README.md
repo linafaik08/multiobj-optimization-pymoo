@@ -8,7 +8,7 @@
 
 This repository contains code and experiments for solving **multi-objective dispatch problems** using **NSGA-II** and **MCDM (Multi-Criteria Decision Making)** tools. It aims to balance competing objectives like **maximizing sales** and **minimizing overstock** in a retail context under uncertainty.
 
-For a deeper dive, check out the blog post in [The AI Practitionner](https://aipractitioner.substack.com/) page.
+For a deeper dive, check out the blog post in [The AI Practitionner](https://aipractitioner.substack.com/) page: [Balancing Conflicting Goals: A Practical Guide to Multi-Objective Optimization with Pymoo](https://aipractitioner.substack.com/p/balancing-conflicting-goals-a-practical) or the podcast [here](https://aipractitioner.substack.com/p/podcast-balancing-conflicting-goals).
 
 ## Project Description
 
